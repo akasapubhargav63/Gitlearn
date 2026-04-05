@@ -1,1 +1,3 @@
 This is a practice3 file and i might get a conflict
+Hello
+lets add some more lines
